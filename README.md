@@ -1,2 +1,0 @@
-# Control-theory
-Akademic projects
